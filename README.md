@@ -1,2 +1,3 @@
 # JavaScript_In_One_Hour
-JavaScript In One Hour Video Tutorial By Programing With Mosh
+(Note:There may be some changes in the code)
+For Running this file,first you will need a text editor.For this course use Visual Studio Code.If you don't have Visual Studio Code installed on your machine then go to this link (https://code.visualstudio.com/download)and download the file.Once You Have downloaded and installed Visual Studio Code open it. Before opening visual studio code download the zip file and create a new folder in your desktop and extract in the folder which you have created.Now open the folder in Visual studio code . Now click in the extensions tab and search for live server and click on install once you have intalled reload Visual Studio Code.Then right click on index.html and click on Open With Live Server.This will open your defult browser
